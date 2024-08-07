@@ -116,7 +116,8 @@ nav {
 }
 
 .news-input {
-    width: 200px;
+    width: 100%;
+    max-width: 200px;
     height: 100%;
     padding-inline: 12px;
     border-radius: 4px;
@@ -140,7 +141,7 @@ nav {
 
 .switch-mode img {
     margin-top: 10px;
-    width: 50px;
+    width: 30px;
     object-fit: contain;
 }
 
@@ -157,7 +158,8 @@ main {
 }
 
 .card {
-    width: 360px;
+    width: 100%;
+    max-width: 360px;
     min-height: 400px;
     box-shadow: 0 0 4px var(--card-shadow-color);
     border-radius: 4px;
