@@ -14,7 +14,7 @@ Welcome to the News App! Stay up-to-date with the latest news articles from vari
 - HTML5
 - CSS3
 - JavaScript
-- NewsAPI
+- Gnews API
 
 ## Getting Started
 ### Setup and Installation
@@ -36,4 +36,4 @@ Welcome to the News App! Stay up-to-date with the latest news articles from vari
 
 ## API Key
 This project uses the NewsAPI to fetch news articles. Make sure to replace the `API_KEY` variable in `script.js` with your own NewsAPI key to fetch live data.
-
+ 
